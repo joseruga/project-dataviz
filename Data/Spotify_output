@@ -1,0 +1,51 @@
+track.id,Track_Name,Artists,Popularity,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration,Chart_Type
+3tjFYV6RSFtuktYl3ZtYcq,Mood (feat. iann dior),24kGoldn - iann dior,100,0.7,0.722,7,-3.558,0,0.0369,0.221,0,0.272,0.756,90.989,140.526,Spotify_chart
+47EiUVwUp4C9fGccaPuUCS,Dakiti,Bad Bunny - Jhay Cortez,99,0.731,0.573,4,-10.059,0,0.0544,0.401,5.22e-05,0.113,0.145,109.928,205.09,Spotify_chart
+0t1kP63rueHleOhQkYSXFY,Dynamite,BTS,97,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,199.054,Spotify_chart
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,96,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200.04,Spotify_chart
+4Oun2ylbjFKMPTiaSbbCih,WAP (feat. Megan Thee Stallion),Cardi B - Megan Thee Stallion,96,0.935,0.454,1,-7.509,1,0.375,0.0194,0,0.0824,0.357,133.073,187.541,Spotify_chart
+1tkg4EHVoqnhR6iFEXb60y,What You Know Bout Love,Pop Smoke,96,0.709,0.548,10,-8.493,1,0.353,0.65,1.59e-06,0.133,0.543,83.995,160.0,Spotify_chart
+5u1n1kITHCxxp8twBcZxWy,Holy (feat. Chance The Rapper),Justin Bieber - Chance the Rapper,95,0.673,0.704,6,-8.056,1,0.36,0.196,0,0.0898,0.372,86.919,212.093,Spotify_chart
+0PvFJmanyNQMseIFrU708S,For The Night (feat. Lil Baby & DaBaby),Pop Smoke,95,0.823,0.586,6,-6.606,0,0.2,0.114,0,0.193,0.347,125.971,190.476,Spotify_chart
+45bE4HXI0AwGZXfZtMp8JR,you broke me first,Tate McRae,95,0.642,0.374,4,-9.386,1,0.0545,0.786,0,0.0906,0.0799,124.099,169.266,Spotify_chart
+4y4spB9m0Q6026KfkAvy9Q,Lonely (with benny blanco),Justin Bieber - benny blanco,95,0.631,0.239,11,-7.071,0,0.0398,0.864,0,0.116,0.0927,79.859,149.297,Spotify_chart
+35mvY5S1H3J2QZyna3TFe0,positions,Ariana Grande,95,0.737,0.802,0,-4.771,1,0.0878,0.468,0,0.0931,0.682,144.015,172.325,Spotify_chart
+7ytR5pFWmSjzHJIeQkgog4,ROCKSTAR (feat. Roddy Ricch),DaBaby,94,0.746,0.69,11,-7.956,1,0.164,0.247,0,0.101,0.497,89.977,181.733,Spotify_chart
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,94,0.357,0.425,5,-7.301,1,0.0333,0.584,0,0.322,0.27,102.078,198.04,Spotify_chart
+35UUpTmrcFXNIVIN26ujXl,Relación - Remix,Sech - Daddy Yankee - J Balvin,94,0.793,0.771,5,-3.417,1,0.0959,0.0337,1.51e-06,0.284,0.835,171.943,247.308,Spotify_chart
+6cx06DFPPHchuUAcTxznu9,Head & Heart (feat. MNEK),Joel Corry - MNEK,94,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,166.028,Spotify_chart
+2SAqBLGA283SUiwJ3xOUVI,Laugh Now Cry Later (feat. Lil Durk),Drake - Lil Durk,94,0.761,0.518,0,-8.871,1,0.134,0.244,3.47e-05,0.107,0.522,133.976,261.493,Spotify_chart
+6UelLqGlWMcVH1E5c4H7lY,Watermelon Sugar,Harry Styles,94,0.548,0.816,0,-4.209,1,0.0465,0.122,0,0.335,0.557,95.39,174.0,Spotify_chart
+0EhpEsp4L0oRGM0vmeaN5e,UN DIA (ONE DAY) (Feat. Tainy),J Balvin - Dua Lipa - Bad Bunny,93,0.571,0.693,6,-8.234,0,0.0545,0.00536,0,0.173,0.393,168.169,232.253,Spotify_chart
+6AGOKlMZWLCaEJGnaROtF9,Put Your Records On,Ritt Momney,93,0.399,0.491,6,-10.778,0,0.0538,0.0563,0.00089,0.11,0.151,91.066,210.463,Spotify_chart
+5KCbr5ndeby4y4ggthdiAb,Wonder,Shawn Mendes,93,0.333,0.637,1,-4.904,0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,172.693,Spotify_chart
+4HYDUMY0xSpeBr0AMY9cUz,La Curiosidad,Jay Wheeler - DJ Nelson,93,0.845,0.677,11,-4.798,0,0.136,0.269,0.000917,0.108,0.68,90.013,219.048,Spotify_chart
+11EnQRgRMJwMAesfkB5pnu,Se Te Nota (with Guaynaa),Lele Pons - Guaynaa,92,0.905,0.686,0,-3.152,1,0.0664,0.0907,0,0.266,0.963,103.013,155.825,Spotify_chart
+5y7DaS3jAc9eZzcSOoUIwU,Una Locura,Ozuna,92,0.714,0.761,5,-4.596,0,0.0427,0.139,0.00035,0.241,0.906,168.022,230.693,Spotify_chart
+59qrUpoplZxbIZxk6X0Bm3,Take You Dancing,Jason Derulo,92,0.789,0.711,2,-4.248,1,0.041,0.0332,0,0.0876,0.753,112.985,190.306,Spotify_chart
+73nAK3HgQK8dak83Y2WQ8F,Vida de Rico,Camilo,92,0.824,0.457,6,-5.428,1,0.0543,0.167,0,0.041,0.95,87.977,187.427,Spotify_chart
+1xQ6trAsedVPCdbtDAmk0c,Savage Love (Laxed - Siren Beat),Jawsh 685 - Jason Derulo,92,0.767,0.481,0,-8.52,0,0.0803,0.234,0,0.269,0.761,150.076,171.375,Spotify_chart
+27ycaQnQAxaPiyeg3nr2aB,Midnight Sky,Miley Cyrus,92,0.705,0.814,4,-5.466,0,0.0346,0.00115,0.00312,0.203,0.259,110.0,223.279,Spotify_chart
+15OjBeqNX3bShsGYQbteRv,La Tóxica,Farruko,92,0.659,0.701,9,-4.107,1,0.164,0.0882,0,0.0866,0.623,91.97,180.52,Spotify_chart
+3H7ihDc1dqLriiWXwsc2po,Breaking Me,Topic - A7S,92,0.789,0.72,8,-5.652,0,0.218,0.223,0,0.129,0.664,122.031,166.794,Spotify_chart
+6Im9k8u9iIzKMrmV7BWtlF,34+35,Ariana Grande,92,0.83,0.585,0,-6.476,1,0.094,0.237,0,0.248,0.485,109.978,173.711,Spotify_chart
+7ndTONDDRFGiPnnhOzOXxq,La Nota,Manuel Turizo - Rauw Alejandro - Myke Towers,91,0.736,0.632,11,-4.939,0,0.0648,0.18,0,0.349,0.503,92.03,216.107,Spotify_chart
+54bFM56PmE4YLRnqpW6Tha,Therefore I Am,Billie Eilish,91,0.889,0.34,11,-7.773,0,0.0697,0.218,0.13,0.055,0.716,94.009,174.321,Spotify_chart
+7hxHWCCAIIxFLCzvDgnQHX,"Lemonade (feat. Gunna, Don Toliver & NAV)",Internet Money,91,0.8,0.658,1,-6.142,0,0.079,0.25,0,0.111,0.462,140.042,195.429,Spotify_chart
+4RJz8NfIe09gpKMiRUWKhJ,Parce (feat. Justin Quiles),Maluma,91,0.691,0.739,5,-3.09,0,0.229,0.422,3.95e-06,0.11,0.884,83.897,248.345,Spotify_chart
+3GtnId3Cm1Xa6joCj08nzW,Jeans,Justin Quiles,91,0.807,0.656,3,-4.395,0,0.105,0.0165,0,0.0693,0.89,83.943,185.84,Spotify_chart
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,91,0.501,0.405,1,-5.679,1,0.0319,0.751,0,0.105,0.446,109.891,182.161,Spotify_chart
+2bgcUk2A3jjKbCJ7KPquTi,Mi Niña,Wisin - Myke Towers - Los Legendarios,90,0.823,0.821,8,-3.402,0,0.166,0.31,4.28e-06,0.143,0.791,99.999,213.314,Spotify_chart
+7B3z0ySL9Rr0XvZEAjWZzM,Sofia,Clairo,90,0.744,0.619,0,-9.805,1,0.039,0.598,0.00372,0.231,0.641,112.997,188.387,Spotify_chart
+3UoULw70kMsiVXxW0L3A33,pov,Ariana Grande,89,0.487,0.534,0,-5.664,0,0.0555,0.36,0,0.1,0.173,131.798,201.882,Spotify_chart
+1yoMvmasuxZfqHEipJhRbp,Hawái,Maluma,89,0.783,0.727,6,-3.454,0,0.389,0.185,2.46e-05,0.0626,0.558,180.067,199.112,Spotify_chart
+0GzuHFG4Ql6DoyxFRnIk3F,Hawái - Remix,Maluma - The Weeknd,89,0.766,0.788,6,-3.128,0,0.312,0.105,5.81e-06,0.142,0.609,179.984,200.482,Spotify_chart
+7vrJn5hDSXRmdXoR30KgF1,BICHOTA,KAROL G,89,0.863,0.666,1,-4.158,0,0.152,0.212,0.000493,0.103,0.838,163.908,178.947,Spotify_chart
+45S5WTQEGOB1VHr1Q4FuPl,Golden,Harry Styles,89,0.448,0.838,4,-5.257,0,0.0557,0.21,0.000131,0.131,0.254,139.863,208.907,Spotify_chart
+21N4Buj4xsyLb218lYle61,Chica Ideal,Sebastian Yatra - Guaynaa,88,0.574,0.891,0,-3.665,0,0.157,0.0847,0,0.16,0.707,100.978,183.24,Spotify_chart
+2gMXnyrvIjhVBUZwvLZDMP,Before You Go,Lewis Capaldi,86,0.459,0.575,3,-4.858,1,0.0573,0.604,0,0.0885,0.183,111.881,215.107,Spotify_chart
+0bYg9bo50gSsH3LtXe2SQn,All I Want for Christmas Is You,Mariah Carey,86,0.336,0.627,7,-7.463,1,0.0384,0.164,0,0.0708,0.35,150.273,241.107,Spotify_chart
+6zFMeegAMYQo0mt8rXtrli,HOLIDAY,Lil Nas X,81,0.81,0.511,5,-6.924,0,0.164,0.12,0,0.0832,0.837,151.947,154.998,Spotify_chart
+2Wo6QQD1KMDWeFkkjLqwx5,Roses - Imanbek Remix,SAINt JHN - Imanbek,80,0.785,0.721,8,-5.457,1,0.0506,0.0149,0.00432,0.285,0.894,121.962,176.219,Spotify_chart
+5nujrmhLynf4yMoMtj8AQF,Levitating (feat. DaBaby),Dua Lipa,77,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,0.915,102.977,203.064,Spotify_chart
+1rgnBhdG2JDFTbYkYRZAku,Dance Monkey,Tones And I,70,0.825,0.593,6,-6.401,0,0.0988,0.688,0.000161,0.17,0.54,98.078,209.755,Spotify_chart

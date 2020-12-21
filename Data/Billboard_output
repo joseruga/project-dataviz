@@ -1,0 +1,51 @@
+id,Track_Name,Artists,Popularity,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo,Duration,Chart_Type
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X - Billy Ray Cyrus,83,0.878,0.619,6,-5.56,1,0.102,0.0533,0,0.113,0.639,136.041,157.067,Billboard_chart
+6habFhsOp2NvshLv26DqMb,Despacito,Luis Fonsi - Daddy Yankee,79,0.655,0.797,2,-4.787,1,0.153,0.198,0,0.067,0.839,177.928,229.36,Billboard_chart
+7ySbfLwdCwl1EM0zNCJZ38,One Sweet Day,Mariah Carey - Boyz II Men,69,0.568,0.495,1,-8.964,1,0.0299,0.353,0,0.0839,0.303,128.234,281.067,Billboard_chart
+2GhA8OAODRkEMUq8RYgCeF,Macarena (Bayside Boys Mix) - (Tribute to Los Del Rio),Studio Allstars,0,0.837,0.514,1,-14.883,1,0.116,0.0539,0.000112,0.0999,0.676,104.076,223.893,Billboard_chart
+3LmvfNUQtglbTrydsdIqFU,We Belong Together,Mariah Carey,70,0.837,0.462,0,-7.89,1,0.0601,0.0339,0,0.09,0.762,139.986,201.4,Billboard_chart
+32OlwWuMpZ6b0aN2RZOeMS,Uptown Funk (feat. Bruno Mars),Mark Ronson - Bruno Mars,82,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,269.667,Billboard_chart
+61sQYdFNS6sEBYCyr1q5gn,I'll Make Love To You,Boyz II Men,63,0.567,0.501,2,-8.038,1,0.0241,0.0995,0,0.0986,0.2,142.589,236.773,Billboard_chart
+4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You,Whitney Houston,77,0.306,0.214,4,-12.518,1,0.0356,0.844,5.3e-06,0.0839,0.108,66.98,271.093,Billboard_chart
+1En0qfVDdBFtX1v8TvprKF,I Gotta Feeling - The Best Of The E.N.D. Version,Black Eyed Peas,25,0.744,0.774,0,-6.399,1,0.0268,0.0751,0,0.512,0.649,127.958,289.187,Billboard_chart
+3DUcaEvPO72PijivCjtZcU,Candle In The Wind 1997,Elton John,56,0.45,0.311,4,-8.175,1,0.0314,0.977,0.00713,0.167,0.367,125.648,250.107,Billboard_chart
+3l3xTXsUXeWlkPqzMs7mPD,End Of The Road,Boyz II Men,71,0.64,0.427,5,-9.29,0,0.0241,0.0664,0,0.0579,0.529,149.703,351.467,Billboard_chart
+6sHsXIJoEN5JpdkGMQDJxt,The Boy Is Mine,Brandy - Monica,68,0.704,0.707,1,-6.537,0,0.0391,0.539,0.00106,0.318,0.761,93.145,294.787,Billboard_chart
+0n2SEXB2qoRQg171q7XqeW,Smooth (feat. Rob Thomas),Santana - Rob Thomas,69,0.609,0.923,9,-3.908,1,0.0338,0.16,4.73e-06,0.295,0.961,115.996,294.987,Billboard_chart
+5rb9QrpfcKFHM1EUbSIurX,Yeah! (feat. Lil Jon & Ludacris),Usher - Lil Jon - Ludacris,82,0.894,0.791,2,-4.699,1,0.112,0.0183,0,0.0388,0.583,105.018,250.373,Billboard_chart
+0n4bITAu0Y0nigrz3MFJMb,Blurred Lines,Robin Thicke - T.I. - Pharrell Williams,75,0.853,0.599,7,-4.756,1,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,263.827,Billboard_chart
+5Z01UMMf7V1o0MzF86s6WJ,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,77,0.692,0.744,2,-4.565,1,0.257,0.00868,0.000423,0.359,0.0612,171.374,326.467,Billboard_chart
+2JzZzZUQj3Qff7wapcbKjc,See You Again (feat. Charlie Puth),Wiz Khalifa - Charlie Puth,82,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,229.526,Billboard_chart
+24HFFhO9WOG5IrptWTgOdW,Boom Boom Pow,Black Eyed Peas,3,0.864,0.858,9,-5.895,1,0.066,0.13,0.00157,0.134,0.409,130.054,251.44,Billboard_chart
+7BKLCZ1jbUBVqRi2FVlTVw,Closer,The Chainsmokers - Halsey,84,0.748,0.524,8,-5.599,1,0.0338,0.414,0,0.111,0.661,95.01,244.96,Billboard_chart
+7qiZfU4dY1lWllzX7mPBI3,Shape of You,Ed Sheeran,85,0.825,0.652,1,-3.183,0,0.0802,0.581,0,0.0931,0.931,95.977,233.713,Billboard_chart
+0J2Wgm8zu6y5qKOFgYjv9H,Independent Women Part 1,The Hit Crew,8,0.747,0.638,6,-6.137,0,0.245,0.107,6.44e-06,0.126,0.947,97.99,217.68,Billboard_chart
+5Ihd9HrPvOADyVoonH9ZjB,Un-Break My Heart,Toni Braxton,68,0.625,0.426,2,-8.392,0,0.0271,0.413,0,0.116,0.112,110.018,270.333,Billboard_chart
+4WUnM4KNZ0kjp0CUeoyOnS,I Swear,All-4-One,67,0.532,0.407,6,-9.658,0,0.0233,0.235,0,0.117,0.23,83.207,259.853,Billboard_chart
+6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,83,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,198.973,Billboard_chart
+3QHONiXGMGU3z68mQInncF,I'll Be Missing You (feat. 112),Diddy - Faith Evans - 112,71,0.862,0.479,7,-9.199,1,0.0646,0.0522,0.00126,0.589,0.925,109.878,301.52,Billboard_chart
+6zMUIb4uce1CzpbjR3vMdN,Foolish,Ashanti,72,0.665,0.695,0,-5.763,1,0.0532,0.347,0,0.106,0.707,90.119,227.387,Billboard_chart
+3XKIUb7HzIF1Vu9usunMzc,Maria Maria (feat. The Product G&B),Santana - The Product G&B,67,0.777,0.601,2,-5.931,1,0.126,0.0406,0.00201,0.0348,0.68,97.911,261.973,Billboard_chart
+0CAfXk7DXMnon4gLudAp7J,Low (feat. T-Pain),Flo Rida - T-Pain,80,0.918,0.609,10,-5.64,0,0.0791,0.0928,0,0.139,0.304,128.008,231.4,Billboard_chart
+60nZcImufyMA1MKQY3dcCH,"Happy - From ""Despicable Me 2""",Pharrell Williams,80,0.647,0.822,5,-4.662,0,0.183,0.219,0,0.0908,0.962,160.019,232.72,Billboard_chart
+3hVrI7snZMTmHCnbwME47u,Physical,Olivia Newton-John,51,0.834,0.633,4,-11.442,0,0.0422,0.0631,5e-05,0.313,0.904,123.815,224.773,Billboard_chart
+1PS1QMdUqOal0ai3Gt7sDQ,Gold Digger,Kanye West - Jamie Foxx,78,0.629,0.696,1,-5.572,0,0.348,0.0195,0,0.0554,0.623,93.034,207.627,Billboard_chart
+0ARK753YaiJbpLUk7z5yIM,Dilemma,Nelly - Kelly Rowland,78,0.727,0.552,2,-8.074,0,0.14,0.227,0.000164,0.198,0.607,168.189,289.16,Billboard_chart
+6qn9YLKt13AGvpq9jfO8py,We Found Love,Rihanna - Calvin Harris,75,0.734,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.986,215.227,Billboard_chart
+3dFR132gzO8jxD57R2gid3,You Light Up My Life,Debby Boone,59,0.333,0.367,2,-10.06,1,0.0291,0.831,1.19e-05,0.262,0.0685,77.986,216.287,Billboard_chart
+6RX5iL93VZ5fKmyvNXvF1r,Irreplaceable,Beyoncé,73,0.447,0.694,7,-4.637,0,0.382,0.0293,5.46e-06,0.167,0.509,175.868,227.853,Billboard_chart
+1zi7xx7UVEFkmKfv06H8x0,One Dance,Drake - WizKid - Kyla,81,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,173.987,Billboard_chart
+2G7V7zsVDxg1yRsu7Ew9RJ,In My Feelings,Drake,79,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,217.925,Billboard_chart
+4sPmO7WMQUAf45kwMOtONw,Hello,Adele,73,0.481,0.451,5,-6.095,0,0.0347,0.336,0,0.0872,0.289,157.966,295.493,Billboard_chart
+3TGRqZ0a2l1LRblBkJoaDx,Call Me Maybe,Carly Rae Jepsen,70,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,193.4,Billboard_chart
+4XNrMwGx1SqP01sqkGTDmo,One More Night,Maroon 5,67,0.718,0.82,5,-3.453,0,0.0323,0.0444,0,0.0846,0.613,92.998,219.467,Billboard_chart
+2dLLR6qlu5UJ5gk0dKz0h3,Royals,Lorde,76,0.674,0.428,7,-9.504,1,0.122,0.121,0,0.132,0.337,84.878,190.185,Billboard_chart
+0HPD5WQqrq7wPWR7P7Dw1i,TiK ToK,Kesha,81,0.755,0.837,2,-2.718,0,0.142,0.0991,0,0.289,0.714,120.028,199.693,Billboard_chart
+3ibKnFDaa3GhpPGlOUj7ff,Let Me Love You,Mario,76,0.656,0.578,7,-8.97,0,0.0922,0.235,0,0.118,0.556,94.514,256.733,Billboard_chart
+4RY96Asd9IefaL3X4LOLZ8,In Da Club,50 Cent,71,0.902,0.72,6,-2.776,0,0.347,0.26,0,0.0749,0.805,90.059,193.467,Billboard_chart
+0odIT9B9BvOCnXfS0e4lB5,Bette Davis Eyes,Kim Carnes,73,0.675,0.649,5,-10.271,1,0.0319,0.0204,0,0.0959,0.596,116.624,228.0,Billboard_chart
+2PpruBYCo4H7WOBJ7Q2EwM,Hey Ya! - Radio Mix,OutKast,79,0.727,0.974,4,-2.261,0,0.0664,0.103,0.000532,0.174,0.965,79.526,235.213,Billboard_chart
+1JISpwLG9TErjo5ztLg0ww,Rich Boy,Baby Boy Da Prince,18,0.785,0.672,0,-4.405,1,0.145,0.0246,0,0.0202,0.841,87.009,284.613,Billboard_chart
+3E5ndyOfO6vFDEIE42HA8o,Mack the Knife,Bobby Darin,63,0.549,0.529,3,-12.291,0,0.108,0.76,0,0.206,0.464,82.755,184.333,Billboard_chart
+6zwvB879PJSpTyFcg2wwnL,"The Theme from ""A Summer Place""",Percy Faith & His Orchestra,55,0.326,0.326,0,-15.144,1,0.0297,0.591,0.918,0.494,0.87,186.232,142.693,Billboard_chart
+0FGxAEMIE5GhyFqFMHRWaO,"Endless Love - From ""The Endless Love"" Soundtrack",Lionel Richie - Diana Ross,65,0.456,0.332,10,-9.775,1,0.025,0.665,0.000248,0.138,0.237,93.633,266.267,Billboard_chart
